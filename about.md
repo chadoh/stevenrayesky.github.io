@@ -10,10 +10,7 @@ Javascript, Ruby and the Rails framework (and anything else I can find time for)
 creativity and growing as a developer as I design and build web applications.
 
 I am a happily married man to my beautiful wife Jenna and father 
-to our two children, Winifred and Theodore. Along with pursuing 
-web development my wife and I run an event company specializing 
-in floral design and weddings. Jenna is incredibly gifted and I 
-am excited to soon use my newfound skills to increase our exposure.
+to our two children, Winifred and Theodore.
 
 Winnie is a firecracker who loves to talk (as any 2-year-old does) 
 and is passionate about princesses and dinosaurs. At 4 months old 

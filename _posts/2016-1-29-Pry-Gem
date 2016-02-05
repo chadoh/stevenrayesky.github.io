@@ -1,0 +1,24 @@
+---
+layout: post
+title: Pry Gem
+---
+
+My class at [NYCDA](http://nycda.com/) had an assignment this week: Pick a well-documented Ruby gem, learn how it works, write a [readme](https://github.com/stevenrayesky/pry_app) for it, and present it in class. 
+
+I chose the Pry gem, which is a alternative to Ruby's default interactive environment repl, IRB. Honestly, I at first I was not entirely sure as to what I was getting myself into, but I knew it involved the command line and that was enough for me!
+
+First, I learned what repl means. It stands for (loop (print (evaluate (read)))). What does that mean? Well, it takes something in(read), (evaluate)s it, and (print)s returns it. That is the loop.
+
+An example being:
+
+```
+1 $ 1 + 2
+2 $ => 3
+3 $
+```
+
+* On line one you input `1 + 2`.
+* It is read, evaluated and returned on line two as `3`.
+* Line three it is ready to receive input again.
+
+Both IRB pry, 

@@ -14,20 +14,22 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 90%;
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 850px;
+  padding: 0 10%;
   width: 100%;
+  border-right: solid 2px $gray;
+  border-left: solid 2px $gray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -69,11 +71,12 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #2D643F;
+  transition: color 0.5s;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #528094;
   }
 }
 

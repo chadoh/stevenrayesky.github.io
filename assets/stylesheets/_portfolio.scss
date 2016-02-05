@@ -1,18 +1,33 @@
+// _portfolio.scss
 .page_title {
 	text-align: center;
+	h1 {
+		color: #528094;
+	}
 }
 
 .project_div {
+	position: relative;
 	width: 100%;
 	height: 400px;
 	margin-bottom: 5%;
 	box-shadow: 3px 3px 2px #BCB6BD;
+	transition: box-shadow 0.5s, left 0.5s, top 0.5s, width 0.5s;
+	top: 0;
+	left: 0;
+	&:hover {
+		box-shadow: 5px 5px 3px #BCB6BD;
+		width: 103%;
+		// height: 82%;
+		top: -1.5%;
+		left: -1.5%;
+	}
 }
 
 .project_image {
 	height: 80%;
 	width: 100%;
-	border-bottom: solid 5px #2D643F;
+	border-bottom: solid 5px #528094;
 }
 
 .project_description {
@@ -57,3 +72,4 @@
 	background-image: url(../../images/cause_project.png);
 	background-size: cover;
 }
+// END of _portfolio.scss

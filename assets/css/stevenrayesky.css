@@ -77,9 +77,6 @@ header {
     font: 25px Lato, Helvetica, Arial, sans-serif; }
 
 .header_div {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
   margin-top: 1%; }
 
 #profile_portrait_box {
@@ -91,7 +88,10 @@ header {
   border-bottom: 2px solid white;
   margin-bottom: -2px; }
 
-.header_link a {
-  text-shadow: 1px 1px 1px black; }
+.header_link {
+  display: inline-block;
+  margin: 0 35px; }
+  .header_link a {
+    text-shadow: 1px 1px 1px black; }
 
 /*# sourceMappingURL=stevenrayesky.css.map */

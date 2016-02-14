@@ -4,18 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Steven Rayesky, a budding web developer at New York Code
-& Design Academy in Philadelphia. I am learning HTML, CSS, 
-Javascript, Ruby and the Rails framework (and anything else I can find time for). I am flexing my 
-creativity and growing as a developer as I design and build web applications.
+Hi! I'm Steven Rayesky. What else. 
 
-I am a happily married man to my beautiful wife Jenna and father 
-to our two children, Winifred and Theodore.
+I am a storyteller from birth, web developer by choice. I spent a number of years in sales and was always seeking a way to scratch that interminable itch: 
 
-Winnie is a firecracker who loves to talk (as any 2-year-old does) 
-and is passionate about princesses and dinosaurs. At 4 months old 
-Theo is rolling (more to come)!
+## The need to create!
+
+By divine favor I stumbled into coding, and found the blend that matched my internal makeup: Logic + Creativity + Problem-solving = Love. 
+
+I enrolled at NYCDA Philly where I was immersed in front/back-end development, collaborated on projects, and acquired the skills necessary to be a full-stack developer. 
+
+My first love is my beautiful wife Jenna and our two children, Winifred and Theodore. 
+
+Family, coding, reading, writing.
 
 ### Contact me
 
-[Protolexus@gmail.com](mailto:protolexus@gmail.com)
+[stevenrayesky@gmail.com](mailto:stevenrayesky@gmail.com)
